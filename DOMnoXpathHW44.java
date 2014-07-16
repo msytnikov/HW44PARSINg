@@ -13,7 +13,7 @@ public class DOMnoXpathHW44 {
   //main method= the entry point into the Java program
  	public static void main(String[] args)/*throws ParserConfigurationException, SAXException, IOException*/{	
  		 
- 		
+ 		//changes for the git hub
 		String fileOnMyComuter ="http://learn2test.net/sdc.xml"; // XML file we are parsing into DOM and breaking it down into 
 		//meaningful peaces and we can manipulate the structure of the parsed XML document usingDOM format
  		String node1 = "server"; // Child node of the Parent = 'kadu-response'
